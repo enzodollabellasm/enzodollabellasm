@@ -1,13 +1,13 @@
 <picture>
   <source 
-    srcset="https://via.placeholder.com/1280x640/0d1117/ffffff?text=ENZO+DOLLABELLA+-+Desenvolvedor"
+    srcset="assets/dark-mode-banner.png"
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="https://via.placeholder.com/1280x640/ffffff/0d1117?text=ENZO+DOLLABELLA+-+Desenvolvedor"
+    srcset="assets/light-mode-banner.png"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://via.placeholder.com/1280x640/ffffff/0d1117?text=ENZO+DOLLABELLA+-+Desenvolvedor" alt="Banner de apresentação - Enzo Dollabella" width="100%" />
+  <img src="assets/light-mode-banner.png" alt="Banner de apresentação - Enzo Dollabella" width="100%" />
 </picture>
 
 ## E aí, Suave?
