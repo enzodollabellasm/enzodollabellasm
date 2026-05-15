@@ -32,4 +32,4 @@ Apaixonado pela computação.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzodollabellasm)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
-<p align="center">✨ Obrigado por visitar! ✨</p>
+
