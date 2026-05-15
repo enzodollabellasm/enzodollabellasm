@@ -1,13 +1,12 @@
 <picture>
   <source 
-    srcset="assets/dark-mode-banner.png"
+    srcset="./assets/dark-mode-banner.png"
     media="(prefers-color-scheme: dark)"
   />
-  <source 
-    srcset="assets/light-mode-banner.png"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  <img 
+    src="./assets/light-mode-banner.png" 
+    width="100%" 
   />
-  <img src="assets/light-mode-banner.png" alt="Banner de apresentação - Enzo Dollabella" width="100%" />
 </picture>
 
 ## E aí, Suave?
