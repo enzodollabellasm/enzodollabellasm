@@ -3,7 +3,7 @@
 ## E aí, Suave?
 
  **Sou o Enzo Dollabella...**    
-e sou paixonado pela computação.
+e sou apaixonado pela computação.
 
 ---
 
