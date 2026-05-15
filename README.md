@@ -1,13 +1,4 @@
-<picture>
-  <source 
-    srcset="./enzodollabellasm/assets/dark-mode-banner.png"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img 
-    src="./enzodollabellasm/assets/light-mode-banner.png" 
-    width="100%" 
-  />
-</picture>
+
 
 ## E aí, Suave?
 
