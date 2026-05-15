@@ -1,10 +1,10 @@
 <picture>
   <source 
-    srcset="./assets/dark-mode-banner.png"
+    srcset="./enzodollabellasm/assets/dark-mode-banner.png"
     media="(prefers-color-scheme: dark)"
   />
   <img 
-    src="./assets/light-mode-banner.png" 
+    src="./enzodollabellasm/assets/light-mode-banner.png" 
     width="100%" 
   />
 </picture>
